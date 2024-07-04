@@ -195,5 +195,11 @@
     <ClCompile Include="25501.cpp">
       <Filter>1.String</Filter>
     </ClCompile>
+    <ClCompile Include="11659.cpp">
+      <Filter>0.Math</Filter>
+    </ClCompile>
+    <ClCompile Include="1546.cpp">
+      <Filter>0.Math</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
