@@ -13,172 +13,187 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="0.Math">
+      <UniqueIdentifier>{411b5828-7c36-40d6-8dcd-1134a1977398}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.String">
+      <UniqueIdentifier>{82976ac6-9b06-44fa-bc93-dc924838a1a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.DataStructure">
+      <UniqueIdentifier>{d69b8c47-c743-48c0-b498-0ed7ac4bfb36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Graph">
+      <UniqueIdentifier>{70df203d-7649-47e4-8eb9-bdd051755ca8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.DP">
+      <UniqueIdentifier>{0ae9b9c0-ca11-4dc8-90f8-ab7077233a08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5.Sort">
+      <UniqueIdentifier>{c656dc39-5cad-4298-aad3-38ff13f26ade}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="6.Search">
+      <UniqueIdentifier>{92627caf-c354-480c-9d96-6355f1718bf0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2750.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2587.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="25305.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2751.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10989.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1427.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11650.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="18258.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2164.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11866.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="28278.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="29279.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2346.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="24511.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="27433.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10870.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2447.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11729.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4673.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2667.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1012.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2178.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1697.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="7576.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1753.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1010.cpp">
+      <Filter>0.Math</Filter>
     </ClCompile>
     <ClCompile Include="1330.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="25501.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="15649.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="FileName.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1920.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10816.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2805.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1654.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2110.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11725.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>0.Math</Filter>
     </ClCompile>
     <ClCompile Include="1991.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>0.Math</Filter>
     </ClCompile>
-    <ClCompile Include="11382.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="2447.cpp">
+      <Filter>0.Math</Filter>
     </ClCompile>
-    <ClCompile Include="11279.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="2587.cpp">
+      <Filter>0.Math</Filter>
     </ClCompile>
-    <ClCompile Include="1927.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="4673.cpp">
+      <Filter>0.Math</Filter>
     </ClCompile>
-    <ClCompile Include="11286.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="15650.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="15651.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="15652.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="14888.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="14889.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="15439.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10872.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="10870.cpp">
+      <Filter>0.Math</Filter>
     </ClCompile>
     <ClCompile Include="11050.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>0.Math</Filter>
     </ClCompile>
-    <ClCompile Include="1010.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="11382.cpp">
+      <Filter>0.Math</Filter>
     </ClCompile>
-    <ClCompile Include="1003.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="27433.cpp">
+      <Filter>0.Math</Filter>
     </ClCompile>
     <ClCompile Include="1259.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>1.String</Filter>
     </ClCompile>
-    <ClCompile Include="24416.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1427.cpp">
+      <Filter>1.String</Filter>
     </ClCompile>
-    <ClCompile Include="1011.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="10989.cpp">
+      <Filter>1.String</Filter>
     </ClCompile>
-    <ClCompile Include="1068.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1927.cpp">
+      <Filter>2.DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="2346.cpp">
+      <Filter>2.DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="28278.cpp">
+      <Filter>2.DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="1012.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="1697.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2178.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="7576.cpp">
+      <Filter>3.Graph</Filter>
     </ClCompile>
     <ClCompile Include="12865.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>4.DP</Filter>
+    </ClCompile>
+    <ClCompile Include="14888.cpp">
+      <Filter>4.DP</Filter>
+    </ClCompile>
+    <ClCompile Include="14889.cpp">
+      <Filter>4.DP</Filter>
+    </ClCompile>
+    <ClCompile Include="24416.cpp">
+      <Filter>4.DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2750.cpp">
+      <Filter>5.Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="2751.cpp">
+      <Filter>5.Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="25305.cpp">
+      <Filter>5.Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="1920.cpp">
+      <Filter>6.Search</Filter>
+    </ClCompile>
+    <ClCompile Include="2110.cpp">
+      <Filter>6.Search</Filter>
+    </ClCompile>
+    <ClCompile Include="2164.cpp">
+      <Filter>6.Search</Filter>
+    </ClCompile>
+    <ClCompile Include="10816.cpp">
+      <Filter>6.Search</Filter>
+    </ClCompile>
+    <ClCompile Include="2667.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.cpp">
+      <Filter>4.DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1068.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="29279.cpp">
+      <Filter>2.DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="18258.cpp">
+      <Filter>2.DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="15652.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="15651.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="15650.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="15649.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="15439.cpp">
+      <Filter>0.Math</Filter>
+    </ClCompile>
+    <ClCompile Include="11866.cpp">
+      <Filter>2.DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="11729.cpp">
+      <Filter>0.Math</Filter>
+    </ClCompile>
+    <ClCompile Include="11725.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="11650.cpp">
+      <Filter>2.DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="1011.cpp">
+      <Filter>0.Math</Filter>
+    </ClCompile>
+    <ClCompile Include="1654.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="1753.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2805.cpp">
+      <Filter>3.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="10872.cpp">
+      <Filter>0.Math</Filter>
+    </ClCompile>
+    <ClCompile Include="11279.cpp">
+      <Filter>2.DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="11286.cpp">
+      <Filter>2.DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="25501.cpp">
+      <Filter>1.String</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

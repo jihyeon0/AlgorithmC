@@ -1,6 +1,7 @@
 #include <iostream>
 #include <queue>
 
+//큐, 요세푸스 문제
 using namespace std;
 
 int main()
