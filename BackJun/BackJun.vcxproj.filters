@@ -201,5 +201,11 @@
     <ClCompile Include="1546.cpp">
       <Filter>0.Math</Filter>
     </ClCompile>
+    <ClCompile Include="10986.cpp">
+      <Filter>0.Math</Filter>
+    </ClCompile>
+    <ClCompile Include="11660.cpp">
+      <Filter>4.DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
