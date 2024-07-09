@@ -1,11 +1,11 @@
-#define EASYINPUT ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
+ï»¿#define EASYINPUT ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
 #include <iostream>
 #include <vector>
 
 
 using namespace std;
 
-/* ³ª¸ÓÁö ÇÕ, ´©Àû ÇÕ, ¼öÇĞ*/
+/* ë‚˜ë¨¸ì§€ í•©, ëˆ„ì  í•©, ìˆ˜í•™*/
 
 vector<long> v;
 vector<long> re;
@@ -26,7 +26,7 @@ int main(void)
 	{
 		int num;
 		cin >> num; 
-		v[i]= v[i - 1] + num; //´©ÀûÇÕ
+		v[i]= v[i - 1] + num; //ëˆ„ì í•©
 	}
 
 	for (int i = 1; i <= N; ++i)
@@ -34,9 +34,9 @@ int main(void)
 		int remain = v[i] % M;
 		if (remain == 0)
 		{
-			res++; //´©ÀûÇÕÀÇ ³ª¸ÓÁö == 0 => ÀÌ¹Ì ³ª´©¾î ¶³¾îÁö´Â °æ¿ì
+			res++; //ëˆ„ì í•©ì˜ ë‚˜ë¨¸ì§€ == 0 => ì´ë¯¸ ë‚˜ëˆ„ì–´ ë–¨ì–´ì§€ëŠ” ê²½ìš°
 		}
-		re[remain]++; //³ª¸ÓÁö°¡ °°Àº ±¸°£ÇÕiÀÇ °³¼ö
+		re[remain]++; //ë‚˜ë¨¸ì§€ê°€ ê°™ì€ êµ¬ê°„í•©iì˜ ê°œìˆ˜
 	}
 
 	for (int i = 0; i < M; ++i)
