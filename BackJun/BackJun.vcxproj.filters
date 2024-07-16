@@ -207,5 +207,14 @@
     <ClCompile Include="11660.cpp">
       <Filter>4.DP</Filter>
     </ClCompile>
+    <ClCompile Include="2018.cpp">
+      <Filter>5.Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="1940.cpp">
+      <Filter>5.Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="1253.cpp">
+      <Filter>5.Sort</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
