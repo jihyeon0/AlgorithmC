@@ -19,7 +19,7 @@ int fib(int n)
 
 int fibonacci(int n)
 {
-    for (int i = 3; i<n; ++i)
+    for (int i = 3; i <= n; ++i)
     {
         fibonaccicnt++;
         f.push_back(f[i - 1] + f[i - 2]);
